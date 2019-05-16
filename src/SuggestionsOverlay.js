@@ -140,7 +140,7 @@ const styled = defaultStyle(({ position }) => ({
   position: 'absolute',
   zIndex: 1,
   backgroundColor: 'white',
-  marginTop: 14,
+  marginTop: 40,
   minWidth: 100,
   ...position,
 
