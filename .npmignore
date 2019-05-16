@@ -1,9 +1,0 @@
-.DS_Store
-gh-pages
-test
-.gitignore
-.babelrc
-.travis.yml
-Gruntfile.js
-react-mentions.sublime-project
-.grunt
